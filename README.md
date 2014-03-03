@@ -12,4 +12,4 @@ Supervisor is a client/server system that allows its users to monitor and contro
 
 ### Sunum 
 
-http://prezi.com/exgnc8kxbysl
+http://prezi.com/sv2eimkxnuoy
